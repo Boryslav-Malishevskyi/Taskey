@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\",
+  "WorkspaceRootPath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|c:\\users\\borys\\desktop\\taskey 2\\taskey\\taskey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|solutionrelative:taskey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\taskey\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|solutionrelative:taskey\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|c:\\users\\borys\\desktop\\taskey 2\\taskey\\presenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|solutionrelative:presenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\presenter\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|solutionrelative:presenter\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|c:\\users\\borys\\desktop\\taskey 2\\taskey\\taskey\\taskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|solutionrelative:taskey\\taskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\presenter\\presentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|solutionrelative:presenter\\presentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|c:\\users\\borys\\desktop\\taskey 2\\taskey\\model\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\model\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|solutionrelative:model\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,58 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Presenter.cs",
-              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Presenter\\Presenter.cs",
-              "RelativeDocumentMoniker": "Presenter\\Presenter.cs",
-              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Presenter\\Presenter.cs",
-              "RelativeToolTip": "Presenter\\Presenter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Title": "IView.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\IView.cs",
+              "RelativeDocumentMoniker": "Presenter\\IView.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\IView.cs",
+              "RelativeToolTip": "Presenter\\IView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T12:38:52.805Z",
+              "WhenOpened": "2025-05-04T19:35:28.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ModelController.cs",
-              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Model\\ModelController.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\ModelController.cs",
               "RelativeDocumentMoniker": "Model\\ModelController.cs",
-              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Model\\ModelController.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\ModelController.cs",
               "RelativeToolTip": "Model\\ModelController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T12:38:31.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Program.cs",
-              "RelativeDocumentMoniker": "Taskey\\Program.cs",
-              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Program.cs",
-              "RelativeToolTip": "Taskey\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T12:36:02.671Z",
+              "WhenOpened": "2025-05-04T17:39:38.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Taskey.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Taskey.cs",
-              "RelativeDocumentMoniker": "Taskey\\Taskey.cs",
-              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Taskey.cs [Design]",
-              "RelativeToolTip": "Taskey\\Taskey.cs [Design]",
+              "Title": "PresenterController.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\PresenterController.cs",
+              "RelativeDocumentMoniker": "Presenter\\PresenterController.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\PresenterController.cs",
+              "RelativeToolTip": "Presenter\\PresenterController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T12:36:08.922Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-04T14:03:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\View.cs",
+              "RelativeDocumentMoniker": "Taskey\\View.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\View.cs",
+              "RelativeToolTip": "Taskey\\View.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwFMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:18:22.523Z",
+              "EditorCaption": ""
             }
           ]
         }
