@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "uzwFqsjWi18=",
-  "success": false,
+  "dgSpecHash": "8Ogo0PSI1r4=",
+  "success": true,
   "projectFilePath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\borys\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
@@ -18,15 +18,5 @@
     "C:\\Users\\borys\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
     "C:\\Users\\borys\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project Taskey is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Project Taskey supports: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
-      "libraryId": "Taskey",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

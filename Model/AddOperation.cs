@@ -11,11 +11,11 @@ namespace Model
 
         private readonly ModelController controller;
         private TaskSettings settings;
-        private Task task;
+        private STask task;
 
         public void Do()
         {
-            task = new Task(settings);
+            task = new STask(settings);
             controller.AddTask(task);
         }
 

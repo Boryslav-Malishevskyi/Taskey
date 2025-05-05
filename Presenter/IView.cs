@@ -5,7 +5,7 @@ namespace Presenter
     public interface IView
     {
         public event EventHandler<TaskSettings> OnCreateTask;
-        public event EventHandler<Task> OnDeleteTask;
+        public event EventHandler<STask> OnDeleteTask;
         void CreateLayout();
         void UpdateAfterCreation(TaskSettings taskSettings);
     }

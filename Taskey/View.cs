@@ -14,8 +14,12 @@ namespace Taskey
 
         private readonly Form _form;
 
+        public EventHandler OnApplicationStarted;
+        public EventHandler OnApplicationQuit;
+
         public event EventHandler<TaskSettings> OnCreateTask;
-        public event EventHandler<Task> OnDeleteTask;
+        public event EventHandler<STask> OnDeleteTask;
+        
 
         public ListBox TaskListBox { get; private set; }
         public Button CreateButton { get; private set; }
