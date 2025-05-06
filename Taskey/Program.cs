@@ -1,3 +1,5 @@
+using Presenter;
+
 namespace Taskey
 {
     internal static class Program
@@ -11,7 +13,24 @@ namespace Taskey
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Taskey());
+            var form = new Taskey();
+            IDisplay display = new BaseDisplay(form);
+            var view = new View(form, display);
+            var presenter = new PresenterController(view);
+            Application.Run(form);
+
+            Application.ApplicationExit += (object? sender, EventArgs e) =>
+            {
+                view.UnsubscribeEvents();
+                presenter.UnsubscribeEvents();
+            };
+
+            Application.ApplicationExit -= (object? sender, EventArgs e) =>
+            {
+                view.UnsubscribeEvents();
+                presenter.UnsubscribeEvents();
+            };
         }
+
     }
 }
