@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\",
+  "WorkspaceRootPath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|c:\\users\\borys\\desktop\\taskey 2\\taskey\\taskey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|solutionrelative:taskey\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\taskey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|solutionrelative:taskey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\presenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|solutionrelative:presenter\\presenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\taskey\\taskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|solutionrelative:taskey\\taskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\model\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|solutionrelative:model\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Presenter.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\Presenter.cs",
+              "RelativeDocumentMoniker": "Presenter\\Presenter.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\Presenter.cs",
+              "RelativeToolTip": "Presenter\\Presenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:38:52.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\ModelController.cs",
+              "RelativeDocumentMoniker": "Model\\ModelController.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\ModelController.cs",
+              "RelativeToolTip": "Model\\ModelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:38:31.582Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Form1.cs",
-              "RelativeDocumentMoniker": "Taskey\\Form1.cs",
-              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Form1.cs [Design]",
-              "RelativeToolTip": "Taskey\\Form1.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\Program.cs",
+              "RelativeDocumentMoniker": "Taskey\\Program.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\Program.cs",
+              "RelativeToolTip": "Taskey\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T12:35:07.613Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-04T12:36:02.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Taskey.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\Taskey.cs",
+              "RelativeDocumentMoniker": "Taskey\\Taskey.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Taskey.cs [Design]",
+              "RelativeToolTip": "..\\..\\Taskey 2\\Taskey\\Taskey\\Taskey.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:36:08.922Z"
             }
           ]
         }

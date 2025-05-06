@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Model\\Model.csproj": {}
+    "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Model\\Model.csproj": {
+    "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\borys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Model\\obj\\",
+        "outputPath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Taskey.csproj": {}
+    "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\Taskey.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Taskey.csproj": {
+    "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\Taskey.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Taskey.csproj",
+        "projectUniqueName": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\Taskey.csproj",
         "projectName": "Taskey",
-        "projectPath": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\Taskey.csproj",
+        "projectPath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\Taskey.csproj",
         "packagesPath": "C:\\Users\\borys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Taskey\\obj\\",
+        "outputPath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Presenter\\Presenter.csproj": {}
+    "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\Presenter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Presenter\\Presenter.csproj": {
+    "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\Presenter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Presenter\\Presenter.csproj",
+        "projectUniqueName": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\Presenter.csproj",
         "projectName": "Presenter",
-        "projectPath": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Presenter\\Presenter.csproj",
+        "projectPath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\Presenter.csproj",
         "packagesPath": "C:\\Users\\borys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borys\\Desktop\\Taskey 2\\Taskey\\Presenter\\obj\\",
+        "outputPath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
