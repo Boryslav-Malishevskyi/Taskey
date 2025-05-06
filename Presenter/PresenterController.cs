@@ -18,12 +18,25 @@ namespace Presenter
         private void InitializeEvents()
         {
             view.OnCreateTask += NewTaskAdded;
+            view.OnDeleteTask += DeleteTask;
         }
 
         private void NewTaskAdded(object? sender, TaskSettings arg)
         {
             model.CreateTask(arg);
-            view.UpdateAfterCreation(arg);
+            view.Update(UpdateAfter.TaskCreation, arg);
+        }
+
+        private void DeleteTask(object? sender, STask task)
+        {
+            model.DeleteTask(task);
+            view.Update(UpdateAfter.TaskDeletion, task.Settings);
+        }
+
+        public void UnsubscribeEvents()
+        {
+            view.OnCreateTask -= NewTaskAdded;
+            view.OnDeleteTask -= DeleteTask;
         }
     }
 }

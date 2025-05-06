@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE03F8FD-16B0-413B-A378-945CA8DD0999}|Tests\\Tests.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE03F8FD-16B0-413B-A378-945CA8DD0999}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\taskey\\basedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|solutionrelative:taskey\\basedisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\model\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|solutionrelative:model\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\model\\saveloadsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|solutionrelative:model\\saveloadsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\presenter\\presentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|solutionrelative:presenter\\presentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\taskey\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|solutionrelative:taskey\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\presenter\\presentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|solutionrelative:presenter\\presentercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\model\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82DE238-558D-4069-B8FD-39718A1C4F6D}|Model\\Model.csproj|solutionrelative:model\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\taskey\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B05360-8C1F-42D6-903A-41443F71B4AE}|Taskey\\Taskey.csproj|solutionrelative:taskey\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|c:\\users\\borys\\desktop\\taskey\\taskey\\presenter\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CFD227-957D-4811-9488-196DB920E633}|Presenter\\Presenter.csproj|solutionrelative:presenter\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Tests\\UnitTest1.cs",
-              "RelativeToolTip": "Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T10:43:37.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ModelController.cs",
-              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\ModelController.cs",
-              "RelativeDocumentMoniker": "Model\\ModelController.cs",
-              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\ModelController.cs",
-              "RelativeToolTip": "Model\\ModelController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAArwC8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T17:39:38.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SaveLoadSystem.cs",
-              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\SaveLoadSystem.cs",
-              "RelativeDocumentMoniker": "Model\\SaveLoadSystem.cs",
-              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\SaveLoadSystem.cs",
-              "RelativeToolTip": "Model\\SaveLoadSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T09:47:09.157Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PresenterController.cs",
-              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\PresenterController.cs",
-              "RelativeDocumentMoniker": "Presenter\\PresenterController.cs",
-              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\PresenterController.cs",
-              "RelativeToolTip": "Presenter\\PresenterController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAAqAAAAAAAAAA==",
+              "Title": "IDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\IDisplay.cs",
+              "RelativeDocumentMoniker": "Taskey\\IDisplay.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\IDisplay.cs",
+              "RelativeToolTip": "Taskey\\IDisplay.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:03:58.698Z",
+              "WhenOpened": "2025-05-06T21:55:27.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IView.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\IView.cs",
+              "RelativeDocumentMoniker": "Presenter\\IView.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\IView.cs",
+              "RelativeToolTip": "Presenter\\IView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:53:39.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\BaseDisplay.cs",
+              "RelativeDocumentMoniker": "Taskey\\BaseDisplay.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\BaseDisplay.cs",
+              "RelativeToolTip": "Taskey\\BaseDisplay.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwMoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:48:03.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ModelController.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\ModelController.cs",
+              "RelativeDocumentMoniker": "Model\\ModelController.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Model\\ModelController.cs",
+              "RelativeToolTip": "Model\\ModelController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:42:08.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresenterController.cs",
+              "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\PresenterController.cs",
+              "RelativeDocumentMoniker": "Presenter\\PresenterController.cs",
+              "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Presenter\\PresenterController.cs",
+              "RelativeToolTip": "Presenter\\PresenterController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T20:56:27.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "View.cs",
               "DocumentMoniker": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\View.cs",
               "RelativeDocumentMoniker": "Taskey\\View.cs",
               "ToolTip": "C:\\Users\\borys\\Desktop\\Taskey\\Taskey\\Taskey\\View.cs",
               "RelativeToolTip": "Taskey\\View.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswBQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T13:18:22.523Z",
+              "WhenOpened": "2025-05-06T17:06:06.714Z",
               "EditorCaption": ""
             }
           ]

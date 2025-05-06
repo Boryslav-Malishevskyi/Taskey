@@ -14,9 +14,23 @@ namespace Taskey
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             var form = new Taskey();
-            var view = new View(form);
+            IDisplay display = new BaseDisplay(form);
+            var view = new View(form, display);
             var presenter = new PresenterController(view);
             Application.Run(form);
+
+            Application.ApplicationExit += (object? sender, EventArgs e) =>
+            {
+                view.UnsubscribeEvents();
+                presenter.UnsubscribeEvents();
+            };
+
+            Application.ApplicationExit -= (object? sender, EventArgs e) =>
+            {
+                view.UnsubscribeEvents();
+                presenter.UnsubscribeEvents();
+            };
         }
+
     }
 }

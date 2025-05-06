@@ -51,14 +51,16 @@
 
         public void CreateTask(TaskSettings taskSettings)
         {
-            var t = new AddOperation(this, taskSettings);
-            t.Do();
-            operations.Push(t);
+            var cr = new AddOperation(this, taskSettings);
+            cr.Do();
+            operations.Push(cr);
         }
 
-        public void DeleteTask()
+        public void DeleteTask(STask task)
         {
-
+            var del = new DeleteOperation(this, task);
+            del.Do();
+            operations.Push(del);
         }
 
 
